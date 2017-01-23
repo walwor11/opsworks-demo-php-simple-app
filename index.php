@@ -21,7 +21,11 @@
                 <p>This host is running PHP version <?php echo phpversion(); ?>.</p>
             </div>
         </div>
-
+        <div class="box">
+            <a href="http://localhost:7101/adfbc-b2b-aarive/rest/r1/PoolOrderList?q=Email=anz@aarcorp.com">
+                link for pool Order List
+            </a>
+        </div>
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
         <script src="assets/js/bootstrap.min.js"></script>
     </body>
